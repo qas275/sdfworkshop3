@@ -7,12 +7,12 @@ public class Session {
 
     public static final String LIST = "list";
     public static final String CARTS = "carts";
-public static final String ADD = "add";
-public static final String DELETE = "del";
-public static final String LOAD = "load";
-public static final String USERS = "users";
-public static final String SAVE = "save";
-public static final String END = "end";
+    public static final String ADD = "add";
+    public static final String DELETE = "del";
+    public static final String LOAD = "load";
+    public static final String USERS = "users";
+    public static final String SAVE = "save";
+    public static final String END = "end";
     public static final String LOGIN = "login";
     
     private Repository repository;
